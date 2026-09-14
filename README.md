@@ -75,8 +75,6 @@ for using ML here, evidenced by a number, not an assumption.
 - This has not been run against real historical shipment records. Before
   relying on it operationally, it needs validation against actual flagged
   cases from the existing manual-review process.
-- It's a genuinely modest project — an anomaly detector, not a novel method
-  or a research contribution. It's presented as such.
 
 ## Files
 
