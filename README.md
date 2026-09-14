@@ -25,7 +25,7 @@ correct modeling choice for this problem, not a limitation to hide.
 
 ## Evaluation methodology
 
-Since there's no real labeled error data, five known anomaly types are
+Since no real labeled error data can be used, five known anomaly types are
 injected into synthetic shipment data at an 8% rate, with labels kept
 strictly separate from training and used only afterward for scoring — the
 same approach used to evaluate fraud/anomaly detectors when true labels
